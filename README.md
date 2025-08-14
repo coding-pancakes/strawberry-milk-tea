@@ -1,2 +1,2 @@
-# strawberry-milk-tea
+# Strawberry Milk Tea
 My first mini javascript project! It's a recipe for strawberry milk tea.
