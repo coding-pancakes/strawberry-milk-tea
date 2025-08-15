@@ -12,7 +12,7 @@ console.log("- 1 Cup of Tapioca Pearls");
 console.log("- 4 Cups of Water");
 console.log("- 1 Cup of Freshly Brewed Black/Green Tea");
 console.log("- 2-3 Tbs of Honey");
-console.log("- 1/2 Cup of Ice Cubes")
+console.log("- 1/2 Cup of Ice Cubes");
 console.log("- Boba Cup and Straw! 🧋");
 
 console.log("Steps:");
@@ -25,7 +25,7 @@ console.log(
 );
 console.log("- Brew the tea and put it in the fridge to cool.");
 console.log("- Blend the strawberries with the remaining honey until smooth.");
-console.log("- Add all the ingredients together in the boba cup.")
+console.log("- Add all the ingredients together in the boba cup.");
 
 /* 
 Secret Ingredient: Matcha Cold Foam
