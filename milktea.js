@@ -29,6 +29,7 @@ console.log("- Add all the ingredients together in the boba cup.");
 
 /* 
 Secret Ingredient: Matcha Cold Foam
+-----------------------------------
 Mix heavy cream, milk, matcha powder, and vanilla syrup. 🤍🍵
 Add it on top of your boba tea for an extra delicious treat!
 */
