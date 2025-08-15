@@ -1,8 +1,10 @@
 // 🤍🧋🍓
 
 console.log("Strawberry Boba Tea Recipe");
+console.log("==========================");
 
 console.log("Ingredients:");
+console.log("--------------------------");
 console.log("- 1 Cup of Strawberries");
 console.log("- Sugar");
 console.log("- Milk of Choice");
@@ -14,6 +16,7 @@ console.log("- 1/2 Cup of Ice Cubes")
 console.log("- Boba Cup and Straw! 🧋");
 
 console.log("Steps:");
+console.log("--------------------------");
 console.log(
     "- Boil the boba pearls in 4 cups of water for 20 min until chewy."
 );
